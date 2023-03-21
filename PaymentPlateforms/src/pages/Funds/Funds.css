@@ -1,0 +1,97 @@
+.cards {
+    /* position: relative; */
+    /* left: 500px;
+    top: 100px; */
+    padding: 1rem;
+    height: 450px;
+    width: 450px;
+    border: 1px solid #d6d5d5;
+    border-radius: 15px;
+    /* border-style: groove; */
+}
+
+.header {
+    background-color: rgb(237, 237, 250);
+    height: 75px;
+    width: 446px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#currency {
+    width: 400px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}
+
+.currency-btns{
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+}
+#Amount {
+    position: relative;
+    left: 20px;
+    top: 80px;
+    width: 400px;
+    height: 40px;
+
+}
+
+
+.buttons {
+    position: relative;
+    left: 20px;
+    top: 90px;
+    
+}
+
+.btn-1 {
+    width: '150px';
+    height: '60px';
+    padding: '20px';
+    
+}
+
+.btn-2 {
+    position: relative;
+    left: 20px;
+    width: '100px';
+    height: '30px';
+    
+}
+
+.btn-3 {
+    position: relative;
+    left: 50px;
+    width: '100px';
+    height: '30px';
+    
+}
+
+.btn-4 {
+    position: relative;
+    left: 100px;
+    width: '100px';
+    height: '30px';
+    
+}
+
+
+.funds-btn {
+    position: relative;
+    top: 150px;
+    height: 50px;
+    width: 400px;
+    background-color:#0071EB;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+ 
+}
+
+.additional-field{
+    margin-bottom: 1rem;
+}
